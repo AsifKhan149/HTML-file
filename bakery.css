@@ -1,0 +1,193 @@
+@font-face {
+    font-family: Font-Lato;
+    src: url(Lato-Black.ttf);
+  }
+  @font-face {
+    font-family: Font-Poppins;
+    src: url(Poppins-Black.ttf);
+  }
+.container
+{
+    max-width: 1440px;
+    height: auto;
+    margin-left: 150px;
+    margin-right: 150px;
+}
+.flex
+{
+    display: flex;
+}
+.navbar
+{
+    justify-content: space-between;
+}
+.nav-backgound
+{
+    background-image: url("img1.png");
+    width: 1920px;
+    height: 1080px;
+    
+}
+.nav-image
+{
+    margin-top: 30px;
+}
+.icon-list
+{
+    list-style: none;
+    gap: 50px;
+    font-size: 24px;
+    margin-top: 61px;
+    font-family: 'Font-Poppins';
+    font-weight: 100px;
+}
+.icon-list1
+{
+    gap: 30px;
+    margin-top: 39px;
+}
+.icon1
+{
+    width: 65px;
+    height: 65px;
+    background-color: rgba(167, 115, 26, 1);
+    border-radius: 50%;
+}
+.search
+{
+    font-size: 30px;
+    text-align: center;
+    color: white;
+    padding: 20px 20px;
+}
+.icon2
+{
+    width: 65px;
+    height: 65px;
+    background-color: rgba(167, 115, 26, 1);
+    border-radius: 50%;
+}
+.fa-user
+{
+    font-size: 30px;
+    text-align: center;
+    color: white;
+    padding: 20px 20px; 
+}
+.icon3
+{
+    width: 65px;
+    height: 65px;
+    background-color: rgba(167, 115, 26, 1);
+    border-radius: 50%;
+    position: relative;
+}
+.fa-bag-shopping
+{
+    font-size: 30px;
+    text-align: center;
+    color: white;
+    padding: 20px 20px; 
+}
+
+
+.image3
+{
+    margin-left: 1300px;
+    width: 275px;
+    height: 200px;
+
+
+}
+.icon-button
+{
+    position: absolute;
+    width: 30px;
+    height: 30px;
+    background-color: red;
+    color: white;
+    font-size: 20px;
+    top: -10px;
+    right: -10px;
+    border-radius: 50%;
+    text-align: center;
+    line-height: 35px;
+}
+.main-heading
+{
+    width: 743px;
+    height: 199px;
+    font-size: 35px;
+    font-family: 'Font-Lato';
+    line-height: 115px;
+}
+.first-para
+{
+    margin-top: 50px;
+    width: 646px;
+    height: 141px;
+    font-size: 24px;
+    line-height: 40px;
+    font-family: 'Font-Poppins';
+    font-weight: 100px;
+}
+.button
+{
+    width: 167px;
+    height: 56px;
+    border-radius: 53px;
+    background: rgba(167, 115, 26, 1);
+    color: white;
+    font-size: 20px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    text-align: center;
+    line-height: 60px;
+   
+
+}
+.image4
+{
+    
+    margin-left: 750px;
+    width: 300px;
+    height: 200px;
+
+}
+.products
+{
+    
+    font-family: 'Font-Poppins';
+    font-size: 50px;
+    font-weight: 100;
+}
+.production
+{
+    justify-content: space-between;
+    margin-top: 100px;
+}
+.button1
+{
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    background: rgba(224, 224, 224, 1);
+}
+.button2
+{
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    background: white;
+    box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, 0.25);
+    position: relative;
+
+}
+.fa-chevron-right
+{
+    text-align: center;
+    position: absolute;
+    justify-content: center;
+    display: flex;
+    align-items: center;
+}
